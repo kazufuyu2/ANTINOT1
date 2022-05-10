@@ -5,7 +5,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 
-token = "OTI3ODA2MTkxNTM3NjM1MzU4.YdPk2Q._RVQ3tsjwPi0NYzI8EQKbha6kUk"
+token = ""
 
 
 SPAM_CHANNEL =  ["antinotの植民地"]
